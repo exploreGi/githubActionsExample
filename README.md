@@ -1,2 +1,2 @@
 # githubActionsExample
-githubActions Python exmaple
+githubActions Java exmaple
